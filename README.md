@@ -368,3 +368,7 @@ in this book [Optimizing Compilers for Modern Architectures. Randy Allen and Ken
 
 * Similarly, some course topics are further developed in this book [High-Performance Computing Paradigm and Infrastructure](https://www.wiley.com/en-dk/High+Performance+Computing%3A+Paradigm+and+Infrastructure-p-9780471732709), e.g., Chapters 3, 8 and 11, but again, you are not expected to buy it or read for the purpose of PMPH.
 
+### Scheduling Languages
+
+Scheduling languages allow the user to guide the compiler in the challenging process of code optimization; this [survey](https://dl.acm.org/doi/pdf/10.1145/3743135) gives a good perspective into the motivation behind scheduling language and how they evolved.
+

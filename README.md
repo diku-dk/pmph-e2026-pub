@@ -190,23 +190,23 @@ please ask the TAs if for any reason, personal or otherwise, you need an extensi
 For Assignments 5 and 6, no resubmission is possible, since the deadlines are
 just before exam week (Assignment 5) and within the exam week (Assignment 6).
 
-### Assignment 1 (due September 10th)
+### Assignment 1 (due September 9th)
 
 * [Assignment text](weeklies/assignment-1/assignment1.asciidoc)
 * [Code handin](weeklies/assignment-1/w1-code-handin.tar.gz)
 
-### Assignment 2 (due September 22nd)
+### Assignment 2 (due September 21st)
 
 * [Assignment text](weeklies/assignment-2/assignment2.asciidoc)
 * [Code handout](weeklies/assignment-2/w2-code-handin.tar.gz)
 
-### Assignments 3+4 (due October 6th) -- this is a bigger assignment counting as two assignments
+### Assignments 3+4 (due October 5th) -- this is a bigger assignment counting as two assignments
 
 * [Assignment text](weeklies/assignment-3-4/assignment3-4.asciidoc)
 * [Code handout](weeklies/assignment-3-4/w3-code-handin.tar.gz)
 
 
-## Assignment 5 + 6 (Group project) tentatively due on 2nd and 5th of November, respsectivelly
+## Assignment 5 + 6 (Group project) tentatively due on 3rd and 5th of November, respectively
 
 Several potential choices for group project may be found in folder `group-projects`, namely
 

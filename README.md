@@ -279,7 +279,7 @@ properly connected to KU-VPN. If you get a "Name or service not known" error
 from `ssh`, then you are probably not connected to the VPN. See [this guide on
 connecting to KU-VPN](https://github.com/diku-dk/howto/blob/main/vpn.md).
 
-What worked for me under Ubuntu: install the "NetIQ Advanced Authentication" on my smartphone, then go to [mfa.ku.dk](https://mfa.ku.dk/), login with your kuid and maybe by using MitID for the very first time, and add a smartphone authenticator by scanning the code from your NetIQ app.
+What worked for me under Ubuntu: install the "NetIQ Advanced Authentication" on your smartphone, then go to [mfa.ku.dk](https://mfa.ku.dk/), login with your kuid and maybe by using MitID for the very first time, and add a smartphone authenticator by scanning the code from your NetIQ app.
 
 <!--
 
